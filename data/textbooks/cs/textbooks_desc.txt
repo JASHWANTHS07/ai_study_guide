@@ -1,1 +1,18 @@
-Contains all the TEXTBOOKS needed for the explainations.
+Contains all the TEXTBOOKS needed for the explainations and can bye used as citations or source data for answer ta toopic or for explaiantion in detail.
+
+TEXTBOOK MAPPING = {
+            "Discrete Mathematics" : "Discrete Mathematical Structures",
+            "Linear Algebra" : "Introduction to Linear Algebra",
+            "Calculus" : "Calculus, 2nd Edition by Gilbert Strang",
+            "Probability and Statistics" : "Probability and Statistics for Engineering and the Sciences",
+            "Digital Logic" : "Digital Electronics",
+            "Computer Organization and Architecture" : "Computer Organization and Design",
+            "Programming and Data Structures" : "Data structures using C",
+            "Algorithms" : "Design and Analysis of Algorithms",
+            "Theory of Computation" : "Theory of Computation",
+            "Compiler Design" : "Compilers Principles Techniques and Tools",
+            "Operating System" : "Operating System Concepts",
+            "Databases" : "Database Management Systems",
+            "Computer Networks" : "Computer Networks"
+        }
+        
